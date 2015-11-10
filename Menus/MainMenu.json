@@ -1,0 +1,22 @@
+﻿[
+    [
+        { "symbol": "+" },
+        { "symbol": "-", "count": 78, "foreColor": 12 },
+        { "symbol": "+" }
+    ],
+    [
+        { "symbol": "|" },
+        { "symbol": " ", "count": 78 },
+        { "symbol": "|" }
+    ],
+    [
+        { "symbol": "|" },
+        { "symbol": " ", "count": 78 },
+        { "symbol": "|" }
+    ],
+    [
+        { "symbol": "+" },
+        { "symbol": "-", "count": 78 },
+        { "symbol": "+" }
+    ]
+]
