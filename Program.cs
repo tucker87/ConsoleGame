@@ -69,8 +69,7 @@ namespace ConsoleGame
     class Menu
     {
         private const string MenuFolder = "Menus/";
-        public MenuData MenuData { get; set; } 
-        private const int Corners = 2;
+        public MenuData MenuData { get; set; }
 
         public Menu(string menuName)
         {
